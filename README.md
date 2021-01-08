@@ -30,6 +30,12 @@ The goal of this project, and respective application, is to create a password ge
 
 -Then the employee password is either displayed in an alert or written to the page
 
+##
+
 ![image](https://user-images.githubusercontent.com/75334749/104061848-f3bfc700-51be-11eb-988b-6b2831d13952.png)
+
+##
+
+https://dustymick.github.io/Password-Generator/
 
 
